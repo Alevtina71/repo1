@@ -1,7 +1,7 @@
 package ru.geekbrains.lesson3;
 import java.util.Random;
 import java.util.Scanner;
-    public class HomeWork4 {
+    public class HomeWorkApp4 {
 
         public static Random random = new Random();
         public static Scanner scanner = new Scanner(System.in);
